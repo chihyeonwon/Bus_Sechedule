@@ -34,3 +34,24 @@ Developer Won Chi Hyeon.
 [국토교통부_(TAGO)_버스노선정보](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15098529)     
 [국토교통부_(TAGO)_버스도착정보](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15098530)     
 [국토교통부_(TAGO)_버스위치정보](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15098533)
+
+## 개발일지
+
+### ViewPager2와 BottomNavigationView 연결
+![2024-06-19 03;05;26](https://github.com/chihyeonwon/Wonju_Bus/assets/58906858/415a98d5-bee0-4e54-9182-c647f3efbac2)      
+총 4개의 화면(fragment)으로 구성하였습니다.     
+각 화면은 옆으로 넘겨서 이동이 가능합니다.     
+
+북마크 화면 - 자주 타는 버스를 모아서 볼 수 있습니다.     
+버스 화면 - 버스 번호를 검색하여 해당 버스의 실시간 위치를 볼 수 있습니다.    
+정류장 화면 - 정류장을 검색하여 해당 정류장의 버스 목록을 볼 수 있습니다.    
+길찾기 화면 - 주변의 정류장의 위치를 지도에 보여주고 버스번호를 입력하면 버스의 노선을 지도에 표시합니다.     
+목적지를 등록하면 목적지 근방까지 해당 버스가 가는 지의 여부를 판단하여 화면에 보여줍니다.    
+
+
+
+
+
+
+
+
