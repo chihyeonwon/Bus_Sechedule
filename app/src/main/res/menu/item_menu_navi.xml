@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bookmark"
+        android:enabled="true"
+        android:icon="@drawable/star"
+        android:title="Home" />
+    <item
+        android:id="@+id/bus"
+        android:enabled="true"
+        android:icon="@drawable/bus"
+        android:title="Edit" />
+    <item
+        android:id="@+id/stop"
+        android:enabled="true"
+        android:icon="@drawable/stop"
+        android:title="Like" />
+    <item
+        android:id="@+id/map"
+        android:enabled="true"
+        android:icon="@drawable/map"
+        android:title="User" />
+
+</menu>
