@@ -57,7 +57,10 @@ Developer Won Chi Hyeon.
 버스노선 정보 공공데이터에서 버스번호에 해당하는 노선 리스트를 화면에 뿌린다음
 만약 현재 버스 위치 이름과 노선 리스트에 위치하는 아이템의 이름이 같으면 레이아웃의 색깔을 빨갛게 한다.
 ```
-
+![image](https://github.com/chihyeonwon/Wonju_Bus/assets/58906858/7adad379-ee24-4b68-b0fa-6b4b391767b6)
+```
+api 설명에 여러 api를 복합적으로 사용해서 하나의 앱을 만든다
+```
 
 
 
