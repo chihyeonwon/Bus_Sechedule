@@ -61,7 +61,10 @@ Developer Won Chi Hyeon.
 ```
 api 설명에 여러 api를 복합적으로 사용해서 하나의 앱을 만든다
 ```
-
+![image](https://github.com/chihyeonwon/Wonju_Bus/assets/58906858/11a67bf8-6abb-4439-a747-83b61b0acee9)
+```
+버스노선 정보 공공데이터에서 노선ID 값을 받아온다.
+```
 
 
 
