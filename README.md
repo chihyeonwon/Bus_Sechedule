@@ -48,6 +48,8 @@ Developer Won Chi Hyeon.
 길찾기 화면 - 주변의 정류장의 위치를 지도에 보여주고 버스번호를 입력하면 버스의 노선을 지도에 표시합니다.     
 목적지를 등록하면 목적지 근방까지 해당 버스가 가는 지의 여부를 판단하여 화면에 보여줍니다.    
 
+### 도시 이름, 코드 서버 데이터
+![image](https://github.com/chihyeonwon/Wonju_Bus/assets/58906858/88224bf8-ef1d-4c3a-9588-58a0aecf5ce4)
 
 
 
